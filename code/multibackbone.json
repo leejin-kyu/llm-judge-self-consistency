@@ -1,0 +1,44 @@
+[
+  {
+    "judge": "gpt-4o",
+    "N_test": 295,
+    "K": 5,
+    "acc": {
+      "Vanilla": 0.678,
+      "PosCalib": 0.5695,
+      "Decomp": 0.7559,
+      "CoT": 0.8169,
+      "SelfConsistency": 0.8339
+    },
+    "billed": 5310,
+    "tokens": 2054081
+  },
+  {
+    "judge": "gpt-4.1",
+    "N_test": 295,
+    "K": 5,
+    "acc": {
+      "Vanilla": 0.7085,
+      "PosCalib": 0.6271,
+      "Decomp": 0.7593,
+      "CoT": 0.7797,
+      "SelfConsistency": 0.7797
+    },
+    "billed": 5310,
+    "tokens": 1879443
+  },
+  {
+    "judge": "gpt-4o-mini",
+    "N_test": 295,
+    "K": 5,
+    "acc": {
+      "Vanilla": 0.6441,
+      "PosCalib": 0.5525,
+      "Decomp": 0.5831,
+      "CoT": 0.678,
+      "SelfConsistency": 0.6712
+    },
+    "billed": 5310,
+    "tokens": 2059909
+  }
+]

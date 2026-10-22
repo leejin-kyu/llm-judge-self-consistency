@@ -1,0 +1,10 @@
+[Instruction]
+{x}
+
+[Response A]
+{a}
+
+[Response B]
+{b}
+
+Which response is better on this criterion alone? Answer with exactly: A, B, or tie.

@@ -1,0 +1,5 @@
+correctness: factual/logical correctness of the answer
+completeness: covers the necessary points of the instruction
+relevance: stays on-topic and addresses the instruction
+conciseness: appropriately concise; not padded or verbose
+faithfulness: no fabrication; consistent with given context

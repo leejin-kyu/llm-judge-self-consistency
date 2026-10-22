@@ -1,0 +1,14 @@
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+scikit-learn>=1.3
+statsmodels>=0.14
+openpyxl>=3.1
+python-dotenv>=1.0
+tqdm>=4.66
+# only for re-running the API experiments
+openai>=1.30.0
+# optional: token counts in analyze_v24_revisions.py (V6)
+tiktoken>=0.7
+# tests
+pytest>=7

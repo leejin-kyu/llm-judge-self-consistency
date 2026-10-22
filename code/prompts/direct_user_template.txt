@@ -1,0 +1,11 @@
+[Instruction]
+{x}
+
+[Response A]
+{a}
+
+[Response B]
+{b}
+
+[Criterion] {criterion}: {criterion_desc}
+Which response is better on this criterion alone? Answer with exactly: A, B, or tie.

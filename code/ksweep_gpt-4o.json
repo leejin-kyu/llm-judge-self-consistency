@@ -1,0 +1,50 @@
+{
+  "judge": "gpt-4o",
+  "rows": [
+    {
+      "K": 1,
+      "T": 0.7,
+      "accuracy": 0.8169,
+      "calls_per_decision": 1,
+      "mean_vote_entropy": 0.0,
+      "delta_over_CoT": 0.0,
+      "acc_per_call": 0.8169
+    },
+    {
+      "K": 3,
+      "T": 0.7,
+      "accuracy": 0.8169,
+      "calls_per_decision": 3,
+      "mean_vote_entropy": 0.0903,
+      "delta_over_CoT": 0.0,
+      "acc_per_call": 0.2723
+    },
+    {
+      "K": 5,
+      "T": 0.7,
+      "accuracy": 0.8373,
+      "calls_per_decision": 5,
+      "mean_vote_entropy": 0.1112,
+      "delta_over_CoT": 0.0204,
+      "acc_per_call": 0.1675
+    },
+    {
+      "K": 7,
+      "T": 0.7,
+      "accuracy": 0.8237,
+      "calls_per_decision": 7,
+      "mean_vote_entropy": 0.1274,
+      "delta_over_CoT": 0.0068,
+      "acc_per_call": 0.1177
+    },
+    {
+      "K": 9,
+      "T": 0.7,
+      "accuracy": 0.8407,
+      "calls_per_decision": 9,
+      "mean_vote_entropy": 0.1084,
+      "delta_over_CoT": 0.0238,
+      "acc_per_call": 0.0934
+    }
+  ]
+}

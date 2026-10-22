@@ -1,0 +1,10 @@
+[Instruction]
+{x}
+
+[Response A]
+{a}
+
+[Response B]
+{b}
+
+List the instruction's explicit constraints, check each response against them, then give your verdict.

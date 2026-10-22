@@ -1,0 +1,10 @@
+[Instruction]
+{x}
+
+[Response A]
+{a}
+
+[Response B]
+{b}
+
+Which response better follows the instruction? You must answer with exactly one token: A or B.

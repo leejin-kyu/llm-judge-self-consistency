@@ -1,0 +1,16 @@
+[
+  {
+    "policy": "cached-stochastic (buggy)",
+    "mean_unique_outputs": 1.0,
+    "mean_vote_entropy": 0.0,
+    "accuracy": 0.7,
+    "billed_calls": 40
+  },
+  {
+    "policy": "cache-bypassed (fixed)",
+    "mean_unique_outputs": 1.1,
+    "mean_vote_entropy": 0.083,
+    "accuracy": 0.725,
+    "billed_calls": 200
+  }
+]
